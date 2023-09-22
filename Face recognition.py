@@ -1,4 +1,3 @@
-/*3.1.Code:- For Face recognition*/
 import cv2
 import face_recognition
 import os
